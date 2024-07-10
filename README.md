@@ -13,3 +13,4 @@ commit --> It makes sure that the change happened.
 Git-clone ---> We can use to clone any folder from GitHub On our device.
 Git-Status displays the status of the Git
 
+push Sends the commits from local repository to the remote one
